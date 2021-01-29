@@ -1,0 +1,39 @@
+h1{
+    font-family:sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;;
+    font-size:24px;
+    
+    
+}
+h2{
+    font-style: normal;
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+}
+
+.row {
+    display:flex; 
+    width:300px;
+    overflow:auto;
+  
+    
+  }
+  
+  .column {
+    flex:25%;
+
+   
+  }
+  select,input[type="text"]{
+    width:30%;
+    box-sizing:border-box;
+    width: 150px;
+    display:inline-block;
+   
+    
+  }
+ 
+
+.button{
+    background-color:dodgerblue;
+    color:white;
+    text-align: center;
+}
